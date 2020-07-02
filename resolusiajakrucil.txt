@@ -3,3 +3,4 @@ resolusiajakrucil
 -membuat blog web
 -membuat website companyprofile
 -bisa mengusai php
+-membuat toko online
