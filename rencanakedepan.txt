@@ -1,3 +1,4 @@
 rencana kedepan
 -membuat web pos
+*membuat tutorialnya
 -membuat web rental mobil
