@@ -1,0 +1,5 @@
+resolusiajakrucil
+-membuat apalikasi web
+-membuat blog web
+-membuat website companyprofile
+-bisa mengusai php
