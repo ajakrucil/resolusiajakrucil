@@ -1,0 +1,2 @@
+# resolusiajakrucil
+resolusisaya
