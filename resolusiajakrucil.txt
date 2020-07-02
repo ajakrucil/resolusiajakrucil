@@ -1,6 +1,6 @@
 resolusiajakrucil
 -membuat apalikasi web
 -membuat blog web
--membuat website companyprofile
+-membuat web restoran
 -bisa mengusai php
 -membuat toko online
